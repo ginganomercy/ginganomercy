@@ -32,8 +32,8 @@ Welcome to my GitHub! I'm a tech enthusiast and lifelong learner who's passionat
 
 ## 📫 Get in Touch
 
-- 📧 Email: raflyashraffi@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/raflyashraffi](https://linkedin.com/in/raflyashraffi)
+- 📧 Email: raflypriyantoro@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/raflyashraffi](https://www.linkedin.com/in/rafly-ashraffi-rachmat-78709030b/)
 
 Feel free to explore my repositories, leave a ⭐ if you find something interesting, and don’t hesitate to connect!
 
