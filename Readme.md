@@ -1,39 +1,58 @@
-# 👋 Hi there, I'm Rafly Ashraffi Rachmat
+# Rafly Ashraffi Rachmat
 
-Welcome to my GitHub! I'm a tech enthusiast and lifelong learner who's passionate about data science, machine learning, and web development. I enjoy solving real-world problems through code, and I'm always looking to collaborate and learn new things.
+Data Scientist and Full-Stack Engineer specializing in the intersection of predictive modeling, machine learning systems, and robust web architectures. Dedicated to transforming complex datasets into actionable web-based solutions.
 
----
+## Technical Focus
 
-## 🧠 What I'm Working On
-
-- 🚴 **Bike Sharing Analysis Project** – Exploratory data analysis, clustering, and dashboarding with Streamlit.
-- 🔍 **Sentiment Analysis** – Deep learning-based sentiment classification with custom scraped data.
-- 🧬 **Cancer Detection with ML** – Building classification models (XGBoost, CatBoost) for early diagnosis.
-- 📱 **Smartphone Recommendation System** – Content-based filtering using TF-IDF.
+* **Data Science & ML:** Supervised learning (Gradient Boosting), Natural Language Processing, and Personalized Recommendation Systems.
+* **Web Engineering:** Enterprise-grade MVC systems, state management, reactive user interfaces, and relational database design.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Featured Projects
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![ginganomercy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ginganomercy&show_icons=true&theme=radical)
+| Project Name | Core Description | Technology Stack |
+| :--- | :--- | :--- |
+| **Cancer Detection via ML** | High-precision classification systems using advanced gradient boosting to optimize early diagnosis accuracy. | Python, XGBoost, CatBoost, Scikit-Learn |
+| **Sentiment Analysis Engine** | Deep learning-based textual classification model trained on custom-scraped web datasets. | Python, PyTorch, Scrapy, NLP-toolkit |
+| **Smartphone Recommendation** | Personalized discovery system utilizing Content-Based Filtering and TF-IDF vectorization techniques. | Python, Pandas, Scikit-Learn |
+| **Bike Sharing Analytics** | Comprehensive exploratory data analysis and statistical clustering exposed via an interactive dashboard. | Python, Streamlit, Seaborn |
 
 ---
 
-## 📫 Get in Touch
+## Technical Stack
 
-- 📧 Email: raflypriyantoro@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/raflyashraffi](https://www.linkedin.com/in/rafly-ashraffi-rachmat-78709030b/)
+### Core Ecosystem
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-Feel free to explore my repositories, leave a ⭐ if you find something interesting, and don’t hesitate to connect!
+### Frontend & State Management
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
+### Storage & Infrastructure
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Analytics & Performance
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=ginganomercy&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="GitHub Metrics" width="100%"/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginganomercy&layout=compact&theme=gotham&hide_border=true&langs_count=6" alt="Language Distribution" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Professional Context
+
+* **Email:** raflypriyantoro@gmail.com
+* **LinkedIn:** [linkedin.com/in/raflyashraffi](https://www.linkedin.com/in/rafly-ashraffi-rachmat-78709030b/)
