@@ -43,7 +43,7 @@ Infrastructure Engineer, Backend Developer, and IoT Enthusiast. Specialized in a
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=ginganomercy&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="GitHub Metrics" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=ginganomercy&show_icons=true&theme=gotham&hide_border=true&count_private=true&hide_rank=true" alt="GitHub Metrics" width="100%"/>
     </td>
     <td width="50%" align="center" valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginganomercy&layout=compact&theme=gotham&hide_border=true&langs_count=6&hide=jupyter%20notebook,html,css" alt="Language Distribution" width="100%"/>
