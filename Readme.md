@@ -1,43 +1,44 @@
 # Rafly Ashraffi Rachmat
 
-Data Scientist and Full-Stack Engineer specializing in the intersection of predictive modeling, machine learning systems, and robust web architectures. Dedicated to transforming complex datasets into actionable web-based solutions.
+Infrastructure Engineer, Backend Developer, and IoT Enthusiast. Specialized in architecting bare-metal server environments, deploying robust backend systems from the ground up, and integrating edge computing solutions with machine learning pipelines.
 
-## Technical Focus
+## Core Competencies
 
-* **Data Science & ML:** Supervised learning (Gradient Boosting), Natural Language Processing, and Personalized Recommendation Systems.
-* **Web Engineering:** Enterprise-grade MVC systems, state management, reactive user interfaces, and relational database design.
+*   **Infrastructure & DevOps:** Proxmox VE virtualization, Docker containerization, CI/CD pipeline automation (GitHub Actions), and secure reverse proxy configurations.
+*   **Backend & API Engineering:** Scalable RESTful API design using PHP (Laravel), Python (Django/FastAPI), and Node.js.
+*   **IoT & Edge Computing:** Firmware development for ESP32/Orange Pi architectures, sensor integration, and real-time telemetry processing.
+*   **Data Science & Applied ML:** Predictive modeling, sentiment analysis, and classification systems integration within web applications.
 
----
+## Key Projects
 
-## Featured Projects
-
-| Project Name | Core Description | Technology Stack |
+| Project / Architecture | Technical Description | Stack & Tools |
 | :--- | :--- | :--- |
-| **Cancer Detection via ML** | High-precision classification systems using advanced gradient boosting to optimize early diagnosis accuracy. | Python, XGBoost, CatBoost, Scikit-Learn |
-| **Sentiment Analysis Engine** | Deep learning-based textual classification model trained on custom-scraped web datasets. | Python, PyTorch, Scrapy, NLP-toolkit |
-| **Smartphone Recommendation** | Personalized discovery system utilizing Content-Based Filtering and TF-IDF vectorization techniques. | Python, Pandas, Scikit-Learn |
-| **Bike Sharing Analytics** | Comprehensive exploratory data analysis and statistical clustering exposed via an interactive dashboard. | Python, Streamlit, Seaborn |
+| **PBJT Library Core Infrastructure** | Architected and deployed the foundational server infrastructure and backend logic from scratch. Implemented strict DevOps practices utilizing Proxmox VE for resource isolation and automated deployment pipelines, completely decoupling the infrastructure layer from the frontend application. | Proxmox VE, GitHub Actions, Backend Logic, REST API |
+| **CAPRA-TECH (Etawa Sense)** | Engineered an end-to-end IoT monitoring infrastructure for livestock stress analysis. Integrated hardware sensor arrays with a centralized telemetry backend to deliver real-time environmental and physiological data points. | C++, ESP32, Sensor Interfacing, Web Dashboard |
+| **KarsaBahan** | Developed an offline-first material procurement management application designed specifically to streamline and secure research project inventory workflows. | Backend API, Relational Database, Offline-Sync Logic |
+| **Diabeacheck (ML Capstone)** | Designed and deployed predictive health analysis pipelines. Connected trained machine learning classification models with responsive web interfaces to deliver accurate, real-time diagnostic probabilities. | Python, Machine Learning, Web Backend |
+| **Proxmox Custom Telemetry** | Built custom monitoring interfaces and dashboard integrations (proxmox-custom-dashboard, proxmox-core) to visualize hypervisor metrics and automate bare-metal server management. | Proxmox API, Shell Scripting, Data Visualization |
 
----
+## Technology Stack
 
-## Technical Stack
+### Infrastructure & Operations
+![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Debian_Server-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### Core Ecosystem
+### Software & Backend Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-### Frontend & State Management
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Storage & Infrastructure
+### Database & Analytics
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
----
-
-## Analytics & Performance
+## Analytics & Contribution Metrics
 
 <table border="0" width="100%">
   <tr>
@@ -50,9 +51,7 @@ Data Scientist and Full-Stack Engineer specializing in the intersection of predi
   </tr>
 </table>
 
----
+## Professional Contact
 
-## Professional Context
-
-* **Email:** raflypriyantoro@gmail.com
-* **LinkedIn:** [linkedin.com/in/raflyashraffi](https://www.linkedin.com/in/rafly-ashraffi-rachmat-78709030b/)
+*   **Mail:** raflypriyantoro@gmail.com
+*   **LinkedIn:** [linkedin.com/in/raflyashraffi](https://www.linkedin.com/in/rafly-ashraffi-rachmat-78709030b/)
